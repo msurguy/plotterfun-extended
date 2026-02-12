@@ -4,6 +4,10 @@ Plotterfun Extended turns images into SVG line art designed for pen plotters.
 
 It is a browser-first React/Vite evolution of the original Plotterfun by [mitxela](https://mitxela.com/projects/plotting), with a modern UI, many additional algorithms, color-separation workflows, depth-aware rendering, and face-boundary tools.
 
+## Live
+
+Play with it live: https://makssurguy.com/labs/plotterfun-extended/
+
 ## Contents
 
 - [Project Origin](#project-origin)
