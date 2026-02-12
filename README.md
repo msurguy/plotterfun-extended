@@ -8,6 +8,12 @@ It is a browser-first React/Vite evolution of the original Plotterfun by [mitxel
 
 Play with it live: https://makssurguy.com/labs/plotterfun-extended/
 
+## Examples
+
+<img width="600" alt="Screenshot 2026-02-08 at 10 35 41 PM" src="https://github.com/user-attachments/assets/9f8eeab6-568e-4095-8cfe-56bc792e12fe" />
+<img width="600" alt="Screenshot 2026-02-08 at 11 25 52 PM" src="https://github.com/user-attachments/assets/a82cc37a-1d40-4d41-80b7-4822be513b4a" />
+
+
 ## Contents
 
 - [Project Origin](#project-origin)
